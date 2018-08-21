@@ -9,6 +9,7 @@ namespace SourceTestProject
     /// </summary>
     public class Game1 : Game
     {
+        float velcoity;
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         
